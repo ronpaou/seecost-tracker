@@ -1,0 +1,14 @@
+{
+  "openai": {
+    "gpt-4o": ["gpt-4o-latest"],
+    "gpt-4o-mini": ["gpt-4o-mini-latest"],
+    "gpt-4.5-preview": ["gpt-4.5"],
+    "gpt-5": ["gpt-5-latest"],
+    "gpt-5-mini": ["gpt-5-mini-latest"],
+    "gpt-5-nano": ["gpt-5-nano-latest"],
+    "o3": ["o3-latest"],
+    "o4-mini": ["o4-mini-latest"]
+  },
+  "anthropic": {},
+  "google": {}
+}

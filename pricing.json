@@ -1,0 +1,166 @@
+{
+  "models": {
+    "gpt-5.4-pro": {
+      "provider": "openai",
+      "name": "gpt-5.4-pro",
+      "inputPricePerMToken": 30.00,
+      "outputPricePerMToken": 180.00
+    },
+    "gpt-5.4": {
+      "provider": "openai",
+      "name": "gpt-5.4",
+      "inputPricePerMToken": 2.50,
+      "outputPricePerMToken": 15.00
+    },
+    "gpt-5.4-mini": {
+      "provider": "openai",
+      "name": "gpt-5.4-mini",
+      "inputPricePerMToken": 0.75,
+      "outputPricePerMToken": 4.50
+    },
+    "gpt-5.4-nano": {
+      "provider": "openai",
+      "name": "gpt-5.4-nano",
+      "inputPricePerMToken": 0.20,
+      "outputPricePerMToken": 1.25
+    },
+    "gpt-5.2-pro": {
+      "provider": "openai",
+      "name": "gpt-5.2-pro",
+      "inputPricePerMToken": 21.00,
+      "outputPricePerMToken": 168.00
+    },
+    "gpt-5.2": {
+      "provider": "openai",
+      "name": "gpt-5.2",
+      "inputPricePerMToken": 1.75,
+      "outputPricePerMToken": 14.00
+    },
+    "gpt-5-mini": {
+      "provider": "openai",
+      "name": "gpt-5-mini",
+      "inputPricePerMToken": 0.25,
+      "outputPricePerMToken": 2.00
+    },
+    "gpt-5-nano": {
+      "provider": "openai",
+      "name": "gpt-5-nano",
+      "inputPricePerMToken": 0.05,
+      "outputPricePerMToken": 0.40
+    },
+    "gpt-4.5-preview": {
+      "provider": "openai",
+      "name": "gpt-4.5-preview",
+      "inputPricePerMToken": 75.00,
+      "outputPricePerMToken": 150.00
+    },
+    "gpt-4o": {
+      "provider": "openai",
+      "name": "gpt-4o",
+      "inputPricePerMToken": 2.50,
+      "outputPricePerMToken": 10.00
+    },
+    "gpt-4o-mini": {
+      "provider": "openai",
+      "name": "gpt-4o-mini",
+      "inputPricePerMToken": 0.15,
+      "outputPricePerMToken": 0.60
+    },
+    "o3": {
+      "provider": "openai",
+      "name": "o3",
+      "inputPricePerMToken": 10.00,
+      "outputPricePerMToken": 40.00
+    },
+    "o4-mini": {
+      "provider": "openai",
+      "name": "o4-mini",
+      "inputPricePerMToken": 1.10,
+      "outputPricePerMToken": 4.40
+    },
+    "claude-4.6-opus": {
+      "provider": "anthropic",
+      "name": "claude-4.6-opus",
+      "inputPricePerMToken": 5.00,
+      "outputPricePerMToken": 25.00
+    },
+    "claude-4.6-sonnet": {
+      "provider": "anthropic",
+      "name": "claude-4.6-sonnet",
+      "inputPricePerMToken": 3.00,
+      "outputPricePerMToken": 15.00
+    },
+    "claude-4.5-haiku": {
+      "provider": "anthropic",
+      "name": "claude-4.5-haiku",
+      "inputPricePerMToken": 1.00,
+      "outputPricePerMToken": 5.00
+    },
+    "claude-3-5-sonnet": {
+      "provider": "anthropic",
+      "name": "claude-3-5-sonnet",
+      "inputPricePerMToken": 3.00,
+      "outputPricePerMToken": 15.00
+    },
+    "claude-3-opus": {
+      "provider": "anthropic",
+      "name": "claude-3-opus",
+      "inputPricePerMToken": 15.00,
+      "outputPricePerMToken": 75.00
+    },
+    "claude-3-haiku": {
+      "provider": "anthropic",
+      "name": "claude-3-haiku",
+      "inputPricePerMToken": 0.25,
+      "outputPricePerMToken": 1.25
+    },
+    "gemini-3.1-pro-preview": {
+      "provider": "google",
+      "name": "gemini-3.1-pro-preview",
+      "inputPricePerMToken": 2.00,
+      "outputPricePerMToken": 12.00
+    },
+    "gemini-3-flash-preview": {
+      "provider": "google",
+      "name": "gemini-3-flash-preview",
+      "inputPricePerMToken": 0.50,
+      "outputPricePerMToken": 3.00
+    },
+    "gemini-3.1-flash-lite-preview": {
+      "provider": "google",
+      "name": "gemini-3.1-flash-lite-preview",
+      "inputPricePerMToken": 0.25,
+      "outputPricePerMToken": 1.50
+    },
+    "gemini-3.1-flash-image-preview": {
+      "provider": "google",
+      "name": "gemini-3.1-flash-image-preview",
+      "inputPricePerMToken": 0.50,
+      "outputPricePerMToken": 60.00
+    },
+    "gemini-3-pro-image-preview": {
+      "provider": "google",
+      "name": "gemini-3-pro-image-preview",
+      "inputPricePerMToken": 2.00,
+      "outputPricePerMToken": 120.00
+    },
+    "gemini-2.5-pro": {
+      "provider": "google",
+      "name": "gemini-2.5-pro",
+      "inputPricePerMToken": 1.25,
+      "outputPricePerMToken": 10.00
+    },
+    "gemini-2.5-flash": {
+      "provider": "google",
+      "name": "gemini-2.5-flash",
+      "inputPricePerMToken": 0.30,
+      "outputPricePerMToken": 2.50
+    },
+    "gemini-2.5-flash-image": {
+      "provider": "google",
+      "name": "gemini-2.5-flash-image",
+      "inputPricePerMToken": 0.30,
+      "outputPricePerMToken": 30.00
+    }
+  }
+}
