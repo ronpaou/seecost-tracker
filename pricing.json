@@ -24,6 +24,18 @@
       "inputPricePerMToken": 0.2,
       "outputPricePerMToken": 1.25
     },
+    "gpt-5.3-chat-latest": {
+      "provider": "openai",
+      "name": "gpt-5.3-chat-latest",
+      "inputPricePerMToken": 1.75,
+      "outputPricePerMToken": 14
+    },
+    "gpt-5.3-codex": {
+      "provider": "openai",
+      "name": "gpt-5.3-codex",
+      "inputPricePerMToken": 1.75,
+      "outputPricePerMToken": 14
+    },
     "gpt-5.2-pro": {
       "provider": "openai",
       "name": "gpt-5.2-pro",
