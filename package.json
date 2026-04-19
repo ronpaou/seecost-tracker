@@ -1,6 +1,6 @@
 {
   "name": "@seecost/tracker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Server-side SDK with a setup CLI for tracking LLM API usage costs",
   "license": "MIT",
   "repository": {
